@@ -248,6 +248,11 @@ html {
   scroll-behavior: smooth;
 }
 
+.sosmed a {
+  margin: 20px;
+  color: #333;
+}
+
 @media (max-width: 768px) {
   .mobile-menu {
     display: block;
